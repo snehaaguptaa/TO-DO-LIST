@@ -1,2 +1,2 @@
 # TO-DO-LIST
-React-js
+Made a simple project TO-DO-LIST using HTML , CSS , JAVASCRIPT .
